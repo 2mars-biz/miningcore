@@ -125,7 +125,7 @@ docker system prune -af
 
 ### Production OS
 
-Windows is **not** a supported production environment. Only Linux is. Please do not file issues related to running a pool on Windows. Windows topics should be posted under [discussions](https://github.com/oliverw/miningcore/discussions).
+Windows is **not** a supported production environment. Only Linux is. Please do not file issues related to running a pool on Windows. Windows topics should be posted under [discussions](https://github.com/2mars-biz/miningcore/discussions).
 
 Running and developing Miningcore on Windows is of course supported.
 
@@ -176,7 +176,7 @@ Once you have done this for all of your existing pools you should now restore yo
 
 ### Configuration
 
-Create a configuration file `config.json` as described [here](https://github.com/oliverw/miningcore/wiki/Configuration).
+Create a configuration file `config.json` as described [here](https://github.com/2Mars-biz/miningcore/wiki/Configuration).
 
 ### Start the Pool
 
